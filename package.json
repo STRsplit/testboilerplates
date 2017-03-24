@@ -1,0 +1,24 @@
+{
+  "name": "testboilerplates",
+  "version": "1.0.0",
+  "description": "making test boilerplate - Greenfield Project work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Streed12/testboilerplates.git"
+  },
+  "keywords": [
+    "tdd",
+    "boilerplate",
+    "testsuite"
+  ],
+  "author": "Steve Reed steve.t.reed@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Streed12/testboilerplates/issues"
+  },
+  "homepage": "https://github.com/Streed12/testboilerplates#readme"
+}
